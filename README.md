@@ -1,2 +1,2 @@
 # About
-for class
+## What about Jess
